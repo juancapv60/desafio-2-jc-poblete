@@ -1,0 +1,91 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.header{
+    padding: 5em;
+    font-size: 1.5em;
+    height: 12em;
+    background-image: url("../imgs/header.jpg");
+    background-size: cover;
+    background-position: bottom;
+}
+
+.header h1{
+    margin: 0px;
+}
+
+.sunrises{
+    width: 80%;
+    margin: auto;
+}
+
+.sunrises td{
+    width: 30%;
+    padding: 0.8em;
+}
+
+.sunrises img{
+    width: 100%;
+    padding: 0.2em;
+    border: solid 2px #ddd;
+}
+
+.sunrises p{
+    margin: auto;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.roofs{
+    width: 80%;
+    margin: auto;
+}
+
+.roofs td{
+    width: 30%;
+    padding: 0.8em;
+}
+
+.roofs img{
+    width: 100%;
+    padding: 0.2em;
+    border: solid 2px #ddd;
+}
+
+.roofs p{
+    margin: auto;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.textures{
+    width: 80%;
+    margin: auto;
+}
+
+.textures td{
+    width: 30%;
+    padding: 0.8em;
+}
+
+.textures img{
+    width: 100%;
+    padding: 0.2em;
+    border: solid 2px #ddd;
+}
+
+.textures p{
+    margin: auto;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.footer{
+    height: 4em;
+    line-height: 4em;
+    background-color: rgb(85, 107, 47);
+    color: white;
+    text-align: center;
+    font-weight: 900;
+}
